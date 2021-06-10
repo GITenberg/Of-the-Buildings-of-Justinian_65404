@@ -1,0 +1,55 @@
+_repo: Of-the-Buildings-of-Justinian_65404
+_version: 0.0.1
+contributor:
+  annotators:
+  - agent_name: Lewis, T. Hayter
+    aliases:
+    - Lewis, Thomas Hayter
+    - Lewis, Hayter
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '53321'
+    url: http://www.gutenberg.org/2009/agents/53321
+  - agent_name: Wilson, Charles William, Sir
+    aliases:
+    - Wilson, C. W. (Charles William), Sir
+    - Wilson, Charles W. (Charles William), Sir
+    birthdate: 1836
+    deathdate: 1905
+    gutenberg_agent_id: '53320'
+    url: http://www.gutenberg.org/2009/agents/53320
+    wikipedia: https://en.wikipedia.org/wiki/Charles_William_Wilson
+  translator:
+    agent_name: Stewart, Aubrey
+    birthdate: 1844
+    deathdate: 1918
+    gutenberg_agent_id: '1309'
+    url: http://www.gutenberg.org/2009/agents/1309
+creator:
+  author:
+    agent_name: Procopius
+    aliases:
+    - Procopius, Caesariensis
+    - Procopius, of Caesarea
+    gutenberg_agent_id: '4712'
+    url: http://www.gutenberg.org/2009/agents/4712
+    wikipedia: https://en.wikipedia.org/wiki/Procopius
+description: ''
+gutenberg_issued: '2021-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Istanbul (Turkey) -- Description and travel'
+- !lcc 'NA'
+- !lcc 'DS'
+- !lcsh 'Architecture, Byzantine'
+- !lcsh 'Byzantine Empire'
+- !lcsh 'Justinian I, Emperor of the East, 483?-565'
+- GITenberg
+title: Of the Buildings of Justinian
+url: http://www.gutenberg.org/ebooks/65404
